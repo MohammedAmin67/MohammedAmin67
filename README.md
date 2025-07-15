@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Mohammed Amin<br><br>I'm a passionate **Full-Stack Developer in Training** with a strong focus on Front-End Development.<br> <br>🚀 What I'm Working On  <br>- 🌐 **Building a Restaurant Reservation System** (Meta Front-End Developer Project)  <br>- 💡 **Deepening My JavaScript Skills** (Super Simple Dev's 22-hour Course)  <br>- 🎓 **Pursuing Multiple Certifications**, including Meta, IBM, and Google UX Design  <br>- 🔧 **Setting Up and Customizing Arch Linux*
+Hello I'm Mohammed Amin<br><br>I'm a passionate **Full-Stack Developer in Training** with a strong focus on Front-End Development.<br> <br>🚀 What I'm Working On  <br>- 🌐 **Building a Restaurant Reservation System** (Meta Front-End Developer Project)  <br>- 💡 **Deepening My JavaScript Skills** (Super Simple Dev's 22-hour Course)  <br>- 🎓 **Pursuing Multiple Certifications**, including Meta and Scrimba  <br>- 🔧 **Setting Up and Customizing Arch Linux*
 
 
 ## 🌐 Socials:
