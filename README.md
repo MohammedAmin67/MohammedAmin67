@@ -1,5 +1,6 @@
+# Hi 👋 I'm Mohammed Amin
+
 # 💫 About Me:
-👋 Hello, I'm Mohammed Amin<br><br>
 I’m passionate about coding, and building robust, scalable applications. I enjoy writing clean, efficient code, and constantly learning new technologies to stay at the cutting edge of software development.<br><br>
 
 ## 🌐 Socials:
