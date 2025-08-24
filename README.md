@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mohammed Amin
+<h1 align="center">Hi 👋 I'm Mohammed Amin</h1>
 
 # 💫 About Me:
 I’m passionate about coding, and building robust, scalable applications. I enjoy writing clean, efficient code, and constantly learning new technologies to stay at the cutting edge of software development.<br><br>
