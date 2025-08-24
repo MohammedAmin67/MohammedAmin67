@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello, I'm Mohammed Amin<br><br>
 💻 Full-Stack Developer (MERN) | 🚀 Always Learning | 🐧 Linux Enthusiast<br><br>
-I’m passionate about building scalable, user-friendly applications and currently expanding my skills with PostgreSQL & Supabase. I enjoy problem-solving, writing clean code, and customizing my dev environment.<br><br>
+I’m passionate about coding, and building robust, scalable applications. I enjoy writing clean, efficient code, and constantly learning new technologies to stay at the cutting edge of software development.<br><br>
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Busy_Eye_3888) 
@@ -23,8 +23,7 @@ I’m passionate about building scalable, user-friendly applications and current
 **⚙️ Tools & Version Control:**<br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br><br>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammedAmin67&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
