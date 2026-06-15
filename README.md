@@ -95,7 +95,7 @@ A full-stack edtech platform with dual roles for students and faculty. Features 
 
 ## 🤝 Let's Work Together
 
-If you're looking for a developer who can take a project from idea to deployed product then your at the right destination.
+If you're looking for a developer who can take a project from idea to deployed product, then your at the right destination.
 
 🌐 **[amin-web.vercel.app](https://amin-web.vercel.app)**  
 📧 **mdamin67541@gmail.com**  
