@@ -8,9 +8,6 @@
   <a href="https://amin-web.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@ItsMeRPG">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-  </a>
   <a href="https://reddit.com/user/Busy_Eye_3888">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
   </a>
@@ -102,10 +99,3 @@ If you're looking for a developer who can take a project from idea to deployed p
 
 🌐 **[amin-web.vercel.app](https://amin-web.vercel.app)**  
 📧 **mdamin67541@gmail.com**  
-📺 **[YouTube — ItsMeRPG](https://youtube.com/@ItsMeRPG)**
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MohammedAmin67&icon=5&color=6" />
-</p>
